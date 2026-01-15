@@ -1,0 +1,28 @@
+.search-bar {
+  height: 45px;
+}
+
+.header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  /* vertical-align: middle; */
+}
+
+.left-section{
+  background-color: lightblue;
+  width: 150px;
+}
+
+.right-section{
+  background-color: pink;
+  width: 200px;
+}
+
+.middle-section{
+  flex: 1;
+  max-width: 500px;
+  margin-right: 70px;
+  margin-left: 35px;
+  background-color: yellow;
+}
