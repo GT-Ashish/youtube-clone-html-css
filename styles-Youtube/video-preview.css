@@ -1,3 +1,18 @@
+.video-thumbnail-container{
+  position: relative;
+}
+
+.video-duration{
+  font-size: 12px;
+  font-weight: 500;
+  font-family: Roboto, Arial;
+  position: absolute;
+  right: 2px;
+  bottom: 20px;
+  padding: 5px 4px;
+  border-radius: 2px;
+}
+
 .video-thumbnail {
   width: 100%;
   margin-bottom: 12px;
@@ -36,4 +51,9 @@
   grid-template-columns: 1fr 1fr 1fr;
   row-gap: 40px;
   column-gap: 20px;
+}
+
+.video-duration{
+  background-color: black;
+  color: white;
 }
