@@ -15,11 +15,13 @@
 
 .video-thumbnail {
   width: 100%;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 
 .channel-picture {
-  width: 100%;
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
   border-radius: 50%;
 }
 
@@ -42,8 +44,7 @@
 
 .bottom-row-grid {
   display: grid;
-  grid-template-columns: 50px 1fr;
-  column-gap: 15px;
+  grid-template-columns: 48px 1fr;
 }
 
 .video-preview-grid {
