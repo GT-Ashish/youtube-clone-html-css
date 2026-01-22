@@ -1,6 +1,8 @@
-# YouTube Clone (HTML & CSS)
+## 🚀 Live Demo  
+🔗 https://gt-ashish.github.io/youtube-clone-html-css/
 
-A responsive YouTube-style landing page UI built using **only HTML and CSS**, based on the SuperSimple.dev exercise. :contentReference[oaicite:1]{index=1}
+# YouTube Clone (HTML & CSS)
+A responsive YouTube-style landing page UI built using **only HTML and CSS**, based on the SuperSimple.dev exercise.
 
 ## 📌 Features
 - Sticky header
